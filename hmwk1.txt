@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9063-C525
+
+ Directory of C:\Users\alecj\Desktop\Git Repo
+
+02/18/2020  02:08 PM    <DIR>          .
+02/18/2020  02:08 PM    <DIR>          ..
+02/18/2020  02:08 PM                 0 hmwk1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  13,376,626,688 bytes free
